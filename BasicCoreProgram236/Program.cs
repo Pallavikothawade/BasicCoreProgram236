@@ -21,6 +21,11 @@ namespace BasicCoreProgram236
                     FlipcoinProgram fp = new FlipcoinProgram();
                     fp.HeadTail();
                     break;
+                case 2:
+                    LeapYear lp = new LeapYear();
+                    lp.check();
+                    break;
+
                 //default:
                 //    break;
             }
