@@ -37,8 +37,10 @@ namespace BasicCoreProgram236
                     SwappingNumbers swappingNumbers = new SwappingNumbers();
                     swappingNumbers.Swapping();
                     break;
-                        
-
+                case 6:
+                    VowelsConsonant vowelsConsonant = new VowelsConsonant();
+                    vowelsConsonant.Vowels();
+                    break;
                 //default:
                 //    break;
             }
