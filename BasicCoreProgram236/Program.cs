@@ -29,6 +29,15 @@ namespace BasicCoreProgram236
                     FactorsProgram factorsProgram = new FactorsProgram();
                     factorsProgram.fact();
                     break;
+                case 4:
+                    CheckedRemainder checkedRemainder = new CheckedRemainder();
+                    checkedRemainder.Remainder();
+                    break;
+                case 5:
+                    SwappingNumbers swappingNumbers = new SwappingNumbers();
+                    swappingNumbers.Swapping();
+                    break;
+                        
 
                 //default:
                 //    break;
