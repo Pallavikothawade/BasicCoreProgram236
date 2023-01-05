@@ -25,6 +25,10 @@ namespace BasicCoreProgram236
                     LeapYear lp = new LeapYear();
                     lp.check();
                     break;
+                case 3:
+                    FactorsProgram factorsProgram = new FactorsProgram();
+                    factorsProgram.fact();
+                    break;
 
                 //default:
                 //    break;
