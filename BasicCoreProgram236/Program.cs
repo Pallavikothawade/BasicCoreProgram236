@@ -46,6 +46,10 @@ namespace BasicCoreProgram236
                     EvenOdd evenOdd = new EvenOdd();
                     evenOdd.EvenoroddNumber();
                     break;
+                case 8:
+                    LargeNumber largeNumber = new LargeNumber();
+                    largeNumber.Large();
+                        break;
 
                     //default:
                     //    break;

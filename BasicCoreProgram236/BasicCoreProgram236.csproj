@@ -47,6 +47,7 @@
     <Compile Include="EvenOdd.cs" />
     <Compile Include="FactorsProgram.cs" />
     <Compile Include="FlipcoinProgram.cs" />
+    <Compile Include="LargeNumber.cs" />
     <Compile Include="LeapYear.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
