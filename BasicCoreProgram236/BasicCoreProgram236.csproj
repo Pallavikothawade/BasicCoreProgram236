@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CheckedRemainder.cs" />
+    <Compile Include="EvenOdd.cs" />
     <Compile Include="FactorsProgram.cs" />
     <Compile Include="FlipcoinProgram.cs" />
     <Compile Include="LeapYear.cs" />

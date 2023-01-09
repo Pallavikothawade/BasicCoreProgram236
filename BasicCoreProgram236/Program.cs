@@ -42,6 +42,10 @@ namespace BasicCoreProgram236
                     CheckedRemainder checkedRemainder = new CheckedRemainder();
                     checkedRemainder.Remainder();
                     break;
+                case 7:
+                    EvenOdd evenOdd = new EvenOdd();
+                    evenOdd.EvenoroddNumber();
+                    break;
 
                     //default:
                     //    break;
