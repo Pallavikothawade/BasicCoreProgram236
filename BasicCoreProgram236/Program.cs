@@ -49,7 +49,11 @@ namespace BasicCoreProgram236
                 case 8:
                     LargeNumber largeNumber = new LargeNumber();
                     largeNumber.Large();
-                        break;
+                    break;
+                case 9:
+                    Harmonics harmonics = new Harmonics();
+                    harmonics.HarmonicsNumber();
+                    break;
 
                     //default:
                     //    break;
