@@ -54,9 +54,10 @@ namespace BasicCoreProgram236
                     Harmonics harmonics = new Harmonics();
                     harmonics.HarmonicsNumber();
                     break;
-
-                    //default:
-                    //    break;
+                case 10:
+                    Powerof powerof = new Powerof();
+                    powerof.Powertwo();
+                    break;
             }
                     Console.ReadLine();
         }

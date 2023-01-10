@@ -50,6 +50,7 @@
     <Compile Include="Harmonics.cs" />
     <Compile Include="LargeNumber.cs" />
     <Compile Include="LeapYear.cs" />
+    <Compile Include="Powerof.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SwappingNumbers.cs" />
